@@ -1,0 +1,2 @@
+# mynewrepo
+Github tutorial
